@@ -1,0 +1,13 @@
+PRESENTASI:
+
+-powerpoint
+1. Anisa Rahmawati 	moderator slide 1 - 4
+2. Daud Regen Bawole 	slide 5 - 8
+3. Fikri Khoirulloh 	 
+4. Rifkhy Eka Putra 	slide 9 - 17 
+
+-code
+1. Anisa Rahmawati 	sponsor - footer
+2. Daud Regen Bawole 	home - about
+3. Fikri Khoirulloh 	video - hotel
+4. Rifkhy Eka Putra 	gallery - location
